@@ -1,3 +1,5 @@
+--AUTOR: CAIO FALCO (CANAL DADOS COM CAIO)
+
 CREATE DATABASE caio_db;
 
 USE caio_db;
